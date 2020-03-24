@@ -40,7 +40,7 @@ user_in = input("Please input a roll in the form NdM:\t")
       ```python
 roll_sum = 0
       ```
-  </details>
+    </details>
 
 ***
 
