@@ -27,7 +27,7 @@ Walkthrough
   - <details><summary>Example:</summary>
 
     ```python
-user_in = input("Please input a roll in the form NdM:\t")
+    user_in = input("Please input a roll in the form NdM:\t")
     ```
   </details>
 
