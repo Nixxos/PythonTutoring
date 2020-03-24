@@ -36,11 +36,11 @@ user_in = input("Please input a roll in the form NdM:\t")
 ##### 2. Make a variable to keep track of the sum of our rolls
   - An integer
   - <details><summary>Example:</summary>
-
-      ```python
+  
+    ```python
 roll_sum = 0
-      ```
-    </details>
+    ```
+  </details>
 
 ***
 
