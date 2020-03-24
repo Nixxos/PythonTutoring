@@ -38,7 +38,7 @@ Walkthrough
   - <details><summary>Example:</summary>
 
     ```python
-roll_sum = 0
+    roll_sum = 0
     ```
   </details>
 
@@ -50,7 +50,7 @@ roll_sum = 0
   - <details><summary>Example:</summary>
 
     ```python
-str_n = user_in.split("d")
+    str_n = user_in.split("d")
     ```
   </details>
 
@@ -61,7 +61,7 @@ str_n = user_in.split("d")
   - <details><summary>Example:</summary>
 
     ```python
-nums = [int(n) for n in str_n]
+    nums = [int(n) for n in str_n]
     ```
   </details>
 
@@ -73,7 +73,7 @@ nums = [int(n) for n in str_n]
   - <details><summary>Example:</summary>
 
     ```python
-for i in range(nums[0]):
+    for i in range(nums[0]):
     ```
   </details>
 
@@ -84,7 +84,7 @@ for i in range(nums[0]):
   - <details><summary>Example:</summary>
 
     ```python
-roll_sum += randint(1, nums[1])
+    roll_sum += randint(1, nums[1])
     ```
   </details>
 
@@ -94,7 +94,7 @@ roll_sum += randint(1, nums[1])
   - <details><summary>Example:</summary>
 
     ```python
-print('The sum of your rolls is %s!\n' % roll_sum)
+    print('The sum of your rolls is %s!\n' % roll_sum)
     ```
   </details>
 
