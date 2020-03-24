@@ -19,8 +19,8 @@ Base Problem
 
 Walkthrough
 ------
-<Details>
-<summary>Click to Expand! (Contains Hints)</summary> </br>
+<!-- <Details> -->
+<!-- <summary>Click to Expand! (Contains Hints)</summary> </br> -->
 
 ##### 1. Get user input using the input() function
   - It takes a string as inputs (usually a prompt for the user to type something in)
@@ -36,7 +36,7 @@ user_in = input("Please input a roll in the form NdM:\t")
 ##### 2. Make a variable to keep track of the sum of our rolls
   - An integer
   - <details><summary>Example:</summary>
-  
+
     ```python
 roll_sum = 0
     ```
@@ -99,7 +99,7 @@ print('The sum of your rolls is %s!\n' % roll_sum)
   </details>
 
 
-</details>
+<!-- </details> -->
 
 <!-- Extended Problem
 ------ -->
