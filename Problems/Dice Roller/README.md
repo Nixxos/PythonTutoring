@@ -31,7 +31,7 @@ Walkthrough
     ```
   </details>
 
-***
+  ***
 
   ##### 2. Make a variable to keep track of the sum of our rolls
   - An integer
@@ -42,7 +42,7 @@ Walkthrough
     ```
   </details>
 
-***
+  ***
 
   ##### 3. Split our string into a list of just the two numbers
   - This will take a string like "6d4" and return a list like ["6", "4"].
@@ -54,7 +54,7 @@ Walkthrough
     ```
   </details>
 
-***
+  ***
 
   ##### 4. Turning our list of strings into a list of integers
   - Run through all numbers (currently strings) in the list and convert them to integers
@@ -65,7 +65,7 @@ Walkthrough
     ```
   </details>
 
-***
+  ***
 
   ##### 5. Make a for loop repeating N times, used to re-roll our dice
   - N being the first number in NdM
@@ -77,7 +77,7 @@ Walkthrough
     ```
   </details>
 
-***
+  ***
 
   ##### 6. "Roll" a random number from 1 to M and add it to the sum of the rolls
   - Usage of randint(a, b): "Return a random integer N such that a <= N <= b"
@@ -88,7 +88,7 @@ Walkthrough
     ```
   </details>
 
-***
+  ***
 
   ##### 7. Finally, print out the sum of the rolls
   - <details><summary>Example:</summary>
