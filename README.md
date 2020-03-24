@@ -1,20 +1,22 @@
-# PythonTutoring
+Python Tutoring
+======
 Introduction to Python 3.x programming
 
-> Here are a few practice problems as requested. </br>
-> If you run out, I’d be happy to make more. Just let me know!
-
-##### Dice Roller!
+#### Dice Roller!
 <Details>
 <summary> Details </summary></br>
 
-- Base Difficulty: Easy
-- Focus: Loops, Random
-- Packages Required: random
+- Base Difficulty:
+ - Easy
+- Focus:
+ - Loops
+ - Random
+- Packages Required:
+ - random
 - <a href="https://github.com/zac-j-harris/PythonTutoring/tree/dev/Problems/Dice%20Roller">Problem Link</a>
 </details>
 
-<!-- ##### Ultimate Exponents:
+<!-- #### Ultimate Exponents:
 <Details>
 <summary> Details </summary></br>
 
@@ -25,37 +27,64 @@ Introduction to Python 3.x programming
  - Find a way to calculate and then print a value for 2^300.
 
 </details> -->
-
-##### Additive Persistence:
+---
+#### Additive Persistence:
 <Details>
 <summary> Details </summary></br>
 
-- Base Difficulty: Easy
-- Focus: Data Types, Loops
-- Packages Required: N/A
+- Base Difficulty:
+ - Easy
+- Focus:
+ - Data Types
+ - Loops
+- Packages Required:
+ - None
 <!-- - Notes: -->
 </details>
-
-##### Word Rectangles:
+---
+#### Vowel Remover:
 <Details>
 <summary> Details </summary></br>
 
-- Base Difficulty: Intermediate
-- Focus: N/A
-- Packages Required: N/A
+- Base Difficulty:
+ - Easy
+- Focus:
+ - String Parsing
+ - Loops
+- Packages Required:
+ - None
 <!-- - Notes: -->
 </details>
-
-##### 20 Questions:
+---
+#### Word Rectangles:
 <Details>
 <summary> Details </summary></br>
 
-- Base Difficulty: Intermediate
-- Focus: File I/O, User Input
-- Packages Required: N/A
+- Base Difficulty:
+ - Intermediate
+- Focus:
+ - N/A
+- Packages Required:
+ - N/A
+<!-- - Notes: -->
+</details>
+---
+#### 20 Questions:
+<Details>
+<summary> Details </summary></br>
+
+- Base Difficulty:
+ - Intermediate
+- Focus:
+ - File I/O
+ - User Input
+- Packages Required:
+ - N/A
 - Notes:
 </details>
+---
 
+> If you run out, I’d be happy to make more. Just let me know! </br>
 > Also, if you have any questions or run into any problems, feel free to email me at harriszj20\@mail.vmi.edu. </br>
 > I would recommend googling any problems first, as it might answer your question.
 
@@ -66,6 +95,14 @@ You only get it as an input in the console. -->
 
 
 <!--- FORMAT IS AS FOLLOWS:
+1.Make a dice roller
+  1.You will accept inputs in the form NdM, and you will return a sum of all the dice rolls.
+  2.For reference, N is the number of rolls, and M is the number of sides on the die.
+  3.Challenge inputs: 5d12, 6d4, 1d2, 1d8, 3d6, 4d20, 100d100
+
+   Problem 2
+  ------
+  Make a program that will take a sentence as input, and will remove any vowels it finds. It will then print the sentence without the vowels.
 
 3. Additive Persistence:
   3. Get a number as input.
