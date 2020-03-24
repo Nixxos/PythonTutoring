@@ -19,8 +19,8 @@ Base Problem
 
 Walkthrough
 ------
-<!-- <Details> -->
-<!-- <summary>Click to Expand! (Contains Hints)</summary> </br> -->
+<Details>
+<summary>Click to Expand! (Contains Hints)</summary> </br>
 
 ##### 1. Get user input using the input() function
   - It takes a string as inputs (usually a prompt for the user to type something in)
@@ -99,7 +99,7 @@ Walkthrough
   </details>
 
 
-<!-- </details> -->
+</details>
 
 <!-- Extended Problem
 ------ -->
