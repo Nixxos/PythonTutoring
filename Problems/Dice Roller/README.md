@@ -29,7 +29,7 @@ Walkthrough
     ```python
 user_in = input("Please input a roll in the form NdM:\t")
     ```
-    </details>
+  </details>
 
 ***
 
@@ -37,10 +37,10 @@ user_in = input("Please input a roll in the form NdM:\t")
   - An integer
   - <details><summary>Example:</summary>
 
-    ```python
+      ```python
 roll_sum = 0
       ```
-      </details>
+  </details>
 
 ***
 
@@ -52,7 +52,7 @@ roll_sum = 0
     ```python
 str_n = user_in.split("d")
     ```
-    </details>
+  </details>
 
 ***
 
@@ -63,7 +63,7 @@ str_n = user_in.split("d")
     ```python
 nums = [int(n) for n in str_n]
     ```
-    </details>
+  </details>
 
 ***
 
@@ -75,7 +75,7 @@ nums = [int(n) for n in str_n]
     ```python
 for i in range(nums[0]):
     ```
-    </details>
+  </details>
 
 ***
 
@@ -86,7 +86,7 @@ for i in range(nums[0]):
     ```python
 roll_sum += randint(1, nums[1])
     ```
-    </details>
+  </details>
 
 ***
 
@@ -96,7 +96,7 @@ roll_sum += randint(1, nums[1])
     ```python
 print('The sum of your rolls is %s!\n' % roll_sum)
     ```
-    </details>
+  </details>
 
 
 </details>
