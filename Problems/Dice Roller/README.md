@@ -26,9 +26,9 @@ Walkthrough
  - It takes a string as inputs (usually a prompt for the user to type something in)
  - <details><summary>Example:</summary>
 
-  ```python
-  user_in = input("Please input a roll in the form NdM:\t")
-  ```
+   ```python
+   user_in = input("Please input a roll in the form NdM:\t")
+   ```
  </details>
 
 ***
@@ -37,9 +37,9 @@ Walkthrough
  - An integer
  - <details><summary>Example:</summary>
 
-  ```python
-  roll_sum = 0
-  ```
+   ```python
+   roll_sum = 0
+   ```
  </details>
 
 ***
@@ -49,9 +49,9 @@ Walkthrough
  - It uses the "d" we typed in for 6d4 as the delimeter, which is something that is used to divide the text
  - <details><summary>Example:</summary>
 
-  ```python
-  str_n = user_in.split("d")
-  ```
+   ```python
+   str_n = user_in.split("d")
+   ```
  </details>
 
 ***
@@ -60,9 +60,9 @@ Walkthrough
  - Run through all numbers (currently strings) in the list and convert them to integers
  - <details><summary>Example:</summary>
 
-  ```python
-  nums = [int(n) for n in str_n]
-  ```
+   ```python
+   nums = [int(n) for n in str_n]
+   ```
  </details>
 
 ***
@@ -72,9 +72,9 @@ Walkthrough
  - N is also stored in nums[0]
  - <details><summary>Example:</summary>
 
-  ```python
-  for i in range(nums[0]):
-  ```
+   ```python
+   for i in range(nums[0]):
+   ```
  </details>
 
 ***
@@ -83,9 +83,9 @@ Walkthrough
  - Usage of randint(a, b): "Return a random integer N such that a <= N <= b"
  - <details><summary>Example:</summary>
 
-  ```python
-  roll_sum += randint(1, nums[1])
-  ```
+   ```python
+   roll_sum += randint(1, nums[1])
+   ```
  </details>
 
 ***
@@ -93,9 +93,9 @@ Walkthrough
 ##### 7. Finally, print out the sum of the rolls
  - <details><summary>Example:</summary>
 
-  ```python
-  print('The sum of your rolls is %s!\n' % roll_sum)
-  ```
+   ```python
+   print('The sum of your rolls is %s!\n' % roll_sum)
+   ```
  </details>
 
 
