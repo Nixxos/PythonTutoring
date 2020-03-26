@@ -77,36 +77,40 @@ Walkthrough
   ***
 
   ##### 5. Make a for loop repeating N times, used to re-roll our dice
-  - N being the first number in NdM
-  - N is also stored in nums[0]
-  - <details><summary>Example:</summary>
+  <ul>
+  <li> N being the first number in NdM </li>
+  <li> N is also stored in nums[0] </li>
+  <li> <details><summary>Example:</summary>
 
   ```python
   for i in range(nums[0]):
   ```
-  </details>
+  </details> </li>
+  </ul>
 
   ***
 
   ##### 6. "Roll" a random number from 1 to M and add it to the sum of the rolls
-  - Usage of randint(a, b): "Return a random integer N such that a <= N <= b"
-  - <details><summary>Example:</summary>
+  <li> Usage of randint(a, b): "Return a random integer N such that a <= N <= b" </li>
+  <li> <details><summary>Example:</summary>
 
   ```python
   roll_sum += randint(1, nums[1])
   ```
-  </details>
+  </details> </li>
+  </ul>
 
   ***
 
   ##### 7. Finally, print out the sum of the rolls
-  - <details><summary>Example:</summary>
+  <ul>
+  <li> <details><summary>Example:</summary>
 
   ```python
   print('The sum of your rolls is %s!\n' % roll_sum)
   ```
-  </details>
-
+  </details> </li>
+  </ul>
   <!-- </section> -->
 </details>
 
