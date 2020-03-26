@@ -103,7 +103,7 @@ Problems
 
 #### Halite 3:
 > Write-up in progress
-<a href=https://google.com>Project Files</a>
+<a href=https://github.com/zac-j-harris/PythonTutoring/tree/dev/Problems/Halite%203>Project Files</a>
 
 <!-- <Details>
 <summary> Details </summary></br>
