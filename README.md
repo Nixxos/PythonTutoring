@@ -42,6 +42,7 @@ Introduction to Python 3.x programming
 <!-- - Notes: -->
 </details>
 ---
+
 #### Vowel Remover:
 <Details>
 <summary> Details </summary></br>
@@ -56,6 +57,7 @@ Introduction to Python 3.x programming
 <!-- - Notes: -->
 </details>
 ---
+
 #### Word Rectangles:
 <Details>
 <summary> Details </summary></br>
@@ -69,6 +71,7 @@ Introduction to Python 3.x programming
 <!-- - Notes: -->
 </details>
 ---
+
 #### 20 Questions:
 <Details>
 <summary> Details </summary></br>

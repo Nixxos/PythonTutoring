@@ -24,7 +24,7 @@ Walkthrough
 
   <section>
 
-##### 1. Get user input using the input() function
+  ##### 1. Get user input using the input() function
   - It takes a string as inputs (usually a prompt for the user to type something in)
   - <details><summary>Example:</summary>
 
