@@ -29,7 +29,7 @@ Problems
     - Random
 - Packages Required:
     - random
-- <a href="https://github.com/zac-j-harris/PythonTutoring/tree/dev/Problems/Dice%20Roller">Problem Link</a>
+- <a href="https://github.com/zac-j-harris/PythonTutoring/tree/master/Problems/Dice%20Roller">Problem Link</a>
 </details>
 
 ---
@@ -103,7 +103,7 @@ Problems
 
 #### Halite 3:
 > Write-up in progress
-<a href=https://github.com/zac-j-harris/PythonTutoring/tree/dev/Problems/Halite%203>Project Files</a>
+<a href=https://github.com/zac-j-harris/PythonTutoring/tree/master/Problems/Halite%203>Project Files</a>
 
 <!-- <Details>
 <summary> Details </summary></br>
