@@ -27,7 +27,9 @@ Introduction to Python 3.x programming
  - Find a way to calculate and then print a value for 2^300.
 
 </details> -->
+
 ---
+
 #### Additive Persistence:
 <Details>
 <summary> Details </summary></br>
@@ -41,6 +43,7 @@ Introduction to Python 3.x programming
  - None
 <!-- - Notes: -->
 </details>
+
 ---
 
 #### Vowel Remover:
@@ -56,6 +59,7 @@ Introduction to Python 3.x programming
  - None
 <!-- - Notes: -->
 </details>
+
 ---
 
 #### Word Rectangles:
@@ -70,6 +74,7 @@ Introduction to Python 3.x programming
  - N/A
 <!-- - Notes: -->
 </details>
+
 ---
 
 #### 20 Questions:
@@ -85,6 +90,7 @@ Introduction to Python 3.x programming
  - N/A
 - Notes:
 </details>
+
 ---
 
 > If you run out, I’d be happy to make more. Just let me know! </br>
