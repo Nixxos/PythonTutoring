@@ -24,24 +24,24 @@ Walkthrough
   <!-- <section> -->
 
   ##### 1. Get user input using the input() function
-    - It takes a string as inputs (usually a prompt for the user to type something in)
-    - <details><summary>Example:</summary>
+  - It takes a string as inputs (usually a prompt for the user to type something in)
+  - <details><summary>Example:</summary>
 
-      ```python
-      user_in = input("Please input a roll in the form NdM:\t")
-      ```
-    </details>
+    ```python
+    user_in = input("Please input a roll in the form NdM:\t")
+    ```
+  </details>
 
   ***
 
   ##### 2. Make a variable to keep track of the sum of our rolls
-    - An integer
-    - <details><summary>Example:</summary>
+  - An integer
+  - <details><summary>Example:</summary>
 
-      ```python
-      roll_sum = 0
-      ```
-    </details>
+    ```python
+    roll_sum = 0
+    ```
+  </details>
 
 ***
 
