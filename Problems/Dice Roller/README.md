@@ -21,7 +21,6 @@ Walkthrough
 ------
 <Details>
   <summary>Click to Expand! (Contains Hints)</summary> </br>
-
   <section>
 
   ##### 1. Get user input using the input() function
