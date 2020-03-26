@@ -82,7 +82,7 @@ Introduction to Python 3.x programming
 <summary> Details </summary></br>
 
 - Base Difficulty:
-  - Intermediate
+-  - Intermediate
 - Focus:
   - File I/O
   - User Input
