@@ -9,7 +9,12 @@
 ## Testing your bot locally
 * Run run_game.bat (Windows) and run_game.sh (MacOS, Linux) to run a game of Halite III. By default, these scripts run a game of your MyBot.py bot vs. itself.  You can modify the board size, map seed, and the opponents of test games using the CLI.
 
-## CLI
+
+## Watching your bot
+* Upload your replays in the form `.hlt` to https://2018.halite.io/watch-games to watch
+
+
+<!-- ## CLI
 The Halite executable comes with a command line interface (CLI). Run `$ ./halite --help` to see a full listing of available flags.
 
 ## Submitting your bot
@@ -26,4 +31,4 @@ The Halite executable comes with a command line interface (CLI). Run `$ ./halite
   * Haskell: You may upload a MyBot.hs, or you may upload a `stack.yaml`, in which case your bot will compile with `stack build`.
   * Elixir: Upload a mix.exs. Your bot will compile with `mix deps.get` followed by `mix escript.build`.
   * Clojure: Upload a project.clj. Your bot will compile with `lein uberjar`.
-  * .NET: Upload a MyBot.csproj or MyBot.fsproj. Your bot will compile with `dotnet restore` followed with `dotnet build`.
+  * .NET: Upload a MyBot.csproj or MyBot.fsproj. Your bot will compile with `dotnet restore` followed with `dotnet build`. -->
