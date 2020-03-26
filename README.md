@@ -7,12 +7,12 @@ Introduction to Python 3.x programming
 <summary> Details </summary></br>
 
 - Base Difficulty:
- - Easy
+    - Easy
 - Focus:
- - Loops
- - Random
+    - Loops
+    - Random
 - Packages Required:
- - random
+    - random
 - <a href="https://github.com/zac-j-harris/PythonTutoring/tree/dev/Problems/Dice%20Roller">Problem Link</a>
 </details>
 
@@ -35,12 +35,12 @@ Introduction to Python 3.x programming
 <summary> Details </summary></br>
 
 - Base Difficulty:
-  - Easy
+    - Easy
 - Focus:
-  - Data Types
-  - Loops
+    - Data Types
+    - Loops
 - Packages Required:
-  - None
+    - None
 <!-- - Notes: -->
 </details>
 
@@ -51,12 +51,12 @@ Introduction to Python 3.x programming
 <summary> Details </summary></br>
 
 - Base Difficulty:
-  - Easy
+    - Easy
 - Focus:
-  - String Parsing
-  - Loops
+    - String Parsing
+    - Loops
 - Packages Required:
- - None
+    - None
 <!-- - Notes: -->
 </details>
 
@@ -67,11 +67,11 @@ Introduction to Python 3.x programming
 <summary> Details </summary></br>
 
 - Base Difficulty:
-  - Intermediate
+    - Intermediate
 - Focus:
-  - N/A
+    - N/A
 - Packages Required:
-  - N/A
+    - N/A
 <!-- - Notes: -->
 </details>
 
@@ -82,12 +82,12 @@ Introduction to Python 3.x programming
 <summary> Details </summary></br>
 
 - Base Difficulty:
--- Intermediate
+    - Intermediate
 - Focus:
-  - File I/O
-  - User Input
+    - File I/O
+    - User Input
 - Packages Required:
-  - N/A
+    - N/A
 <!-- - Notes: -->
 </details>
 
