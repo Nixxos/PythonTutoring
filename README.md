@@ -16,7 +16,7 @@ External Resources
 
 Environment Setup
 ------
-> Will soon include info on how to setup PyCharm and begin working on your first PyCharm project!
+> Will soon include info on how to set up PyCharm and begin working on your first PyCharm project!
 
 <a href=https://www.jetbrains.com/pycharm/>PyCharm Website</a>
 
