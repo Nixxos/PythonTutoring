@@ -2,6 +2,22 @@ Python Tutoring
 ======
 Introduction to Python 3.x programming
 
+External Resources
+------
+> All items on list are free
+
+- <a href=https://www.codecademy.com/catalog/language/python>Code Academy </a>
+    - Provides interactive tutorial to Python 2 basics
+- <a href=https://www.reddit.com/r/dailyprogrammer/>Daily Programmer </a>
+    - Provides a bunch of fun problems ranging from beginner to professional developer
+- <a href=https://projecteuler.net/archives>Project Euler </a>
+    - Provides over 600 coding problems that are very math-heavy
+    - Useful to test your algorithm designing skills
+
+
+Problems
+------
+
 #### Dice Roller!
 <Details>
 <summary> Details </summary></br>
@@ -16,22 +32,11 @@ Introduction to Python 3.x programming
 - <a href="https://github.com/zac-j-harris/PythonTutoring/tree/dev/Problems/Dice%20Roller">Problem Link</a>
 </details>
 
-<!-- #### Ultimate Exponents:
-<Details>
-<summary> Details </summary></br>
-
-- Base Difficulty: 0-10
-- Focus: N/A
-- Packages Required: N/A
-- Notes:
- - Find a way to calculate and then print a value for 2^300.
-
-</details> -->
-
 ---
 
 #### Additive Persistence:
-<Details>
+> Write-up in progress
+<!-- <Details>
 <summary> Details </summary></br>
 
 - Base Difficulty:
@@ -42,12 +47,13 @@ Introduction to Python 3.x programming
 - Packages Required:
     - None
 <!-- - Notes: -->
-</details>
+</details> -->
 
 ---
 
 #### Vowel Remover:
-<Details>
+> Write-up in progress
+<!-- <Details>
 <summary> Details </summary></br>
 
 - Base Difficulty:
@@ -58,12 +64,13 @@ Introduction to Python 3.x programming
 - Packages Required:
     - None
 <!-- - Notes: -->
-</details>
+</details> -->
 
 ---
 
 #### Word Rectangles:
-<Details>
+> Write-up in progress
+<!-- <Details>
 <summary> Details </summary></br>
 
 - Base Difficulty:
@@ -73,12 +80,13 @@ Introduction to Python 3.x programming
 - Packages Required:
     - N/A
 <!-- - Notes: -->
-</details>
+</details> -->
 
 ---
 
 #### 20 Questions:
-<Details>
+> Write-up in progress
+<!-- <Details>
 <summary> Details </summary></br>
 
 - Base Difficulty:
@@ -89,7 +97,26 @@ Introduction to Python 3.x programming
 - Packages Required:
     - N/A
 <!-- - Notes: -->
-</details>
+</details> -->
+
+---
+
+#### Halite 3:
+> Write-up in progress
+<a href=https://google.com>Project Files</a>
+
+<!-- <Details>
+<summary> Details </summary></br>
+
+- Base Difficulty:
+    - Intermediate
+- Focus:
+    - File I/O
+    - User Input
+- Packages Required:
+    - N/A
+<!-- - Notes: -->
+</details> -->
 
 ---
 
