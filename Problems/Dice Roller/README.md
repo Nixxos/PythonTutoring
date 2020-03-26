@@ -9,13 +9,13 @@
 Base Problem
 ------
 - Input:
- - Your program will accept inputs in the form NdM
- - N is the number of rolls
- - M is the number of sides on the dice
+    - Your program will accept inputs in the form NdM
+    - N is the number of rolls
+    - M is the number of sides on the dice
 - Outputs:
- - Sum of all the dice rolls
+    - Sum of all the dice rolls
 - Test Inputs:
- - 5d12, 6d4, 1d2, 1d8, 6d6, 7d20, 100d100
+    - 5d12, 6d4, 1d2, 1d8, 6d6, 7d20, 100d100
 
 Walkthrough
 ------
@@ -64,7 +64,7 @@ Walkthrough
   ***
 
   ##### 4. Turning our list of strings into a list of integers
-  <!-- <ul> -->
+  <ul>
   <li> Run through all numbers (currently strings) in the list and convert them to integers </li>
   <li> <details><summary>Example:</summary>
 
@@ -72,12 +72,12 @@ Walkthrough
   nums = [int(n) for n in str_n]
   ```
   </details> </li>
-  <!-- </ul> -->
+  </ul>
 
   ***
 
   ##### 5. Make a for loop repeating N times, used to re-roll our dice
-  <!-- <ul> -->
+  <ul>
   <li> N being the first number in NdM </li>
   <li> N is also stored in nums[0] </li>
   <li> <details><summary>Example:</summary>
@@ -86,11 +86,12 @@ Walkthrough
   for i in range(nums[0]):
   ```
   </details> </li>
-  <!-- </ul> -->
+  </ul>
 
   ***
 
   ##### 6. "Roll" a random number from 1 to M and add it to the sum of the rolls
+  <ul>
   <li> Usage of randint(a, b): "Return a random integer N such that a <= N <= b" </li>
   <li> <details><summary>Example:</summary>
 
@@ -98,7 +99,7 @@ Walkthrough
   roll_sum += randint(1, nums[1])
   ```
   </details> </li>
-  <!-- </ul> -->
+  </ul>
 
   ***
 
