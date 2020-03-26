@@ -14,6 +14,9 @@ External Resources
     - Provides over 600 coding problems that are very math-heavy
     - Useful to test your algorithm designing skills
 
+Environment Setup
+------
+> Will soon include info on how to setup PyCharm and begin working on your first PyCharm project!
 
 Problems
 ------
