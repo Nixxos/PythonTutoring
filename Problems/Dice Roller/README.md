@@ -32,9 +32,9 @@ Walkthrough
     ```
   </details>
 
-***
+  ***
 
-##### 2. Make a variable to keep track of the sum of our rolls
+  ##### 2. Make a variable to keep track of the sum of our rolls
   - An integer
   - <details><summary>Example:</summary>
 
