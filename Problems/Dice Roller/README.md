@@ -64,7 +64,7 @@ Walkthrough
   ***
 
   ##### 4. Turning our list of strings into a list of integers
-  <ul>
+  <!-- <ul> -->
   <li> Run through all numbers (currently strings) in the list and convert them to integers </li>
   <li> <details><summary>Example:</summary>
 
@@ -72,12 +72,12 @@ Walkthrough
   nums = [int(n) for n in str_n]
   ```
   </details> </li>
-  </ul>
+  <!-- </ul> -->
 
   ***
 
   ##### 5. Make a for loop repeating N times, used to re-roll our dice
-  <ul>
+  <!-- <ul> -->
   <li> N being the first number in NdM </li>
   <li> N is also stored in nums[0] </li>
   <li> <details><summary>Example:</summary>
@@ -86,7 +86,7 @@ Walkthrough
   for i in range(nums[0]):
   ```
   </details> </li>
-  </ul>
+  <!-- </ul> -->
 
   ***
 
@@ -98,7 +98,7 @@ Walkthrough
   roll_sum += randint(1, nums[1])
   ```
   </details> </li>
-  </ul>
+  <!-- </ul> -->
 
   ***
 
