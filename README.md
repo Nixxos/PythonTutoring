@@ -102,7 +102,7 @@ Problems
 ---
 
 #### Halite 3:
-> Write-up in progress
+> Write-up in progress </br>
 <a href=https://github.com/zac-j-harris/PythonTutoring/tree/master/Problems/Halite%203>Project Files</a>
 
 <!-- <Details>
